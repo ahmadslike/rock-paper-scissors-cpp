@@ -68,7 +68,7 @@ g++ main.cpp -o rps
 - `enum` + `struct` to model game state cleanly
 - Passing state by reference instead of using globals
 - Input validation with `do...while` loops
-- Going beyond the course requirements: ANSI colored output and sound feedback
+- Implementing ANSI escape codes for colored output and sound feedback
 
 ## Author
 
