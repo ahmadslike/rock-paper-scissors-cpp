@@ -2,7 +2,7 @@
 
 # Rock Paper Scissors — C++ Console Game 🪨📄✂️
 
-A console Rock-Paper-Scissors game where you play against the computer, built in C++ with a clean **Divide & Conquer** structure: every function has exactly one job.
+A console Rock-Paper-Scissors game where you play against the computer, built in C++ with a clean **Divide & Conquer** 
 
 > Project 1 of **Algorithms & Problem-Solving Level 2** (Course 5 of Dr. Mohammed Abu-Hadhoud's programming roadmap).
 
